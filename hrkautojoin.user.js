@@ -1,10 +1,14 @@
 // ==UserScript==
 // @name         HRK Autojoin
 // @namespace    HRKA
-// @version      0.1
+// @version      0.2
 // @description  please make sure you don't have it running the same time as autoref helper, it will collide
 // @author       Tackyou
 // @match        *://www.hrkgame.com/giveaway/dropkey/today/
+// @license      https://raw.githubusercontent.com/Tackyou/HRK-Autojoin/master/LICENSE
+// @supportURL   https://github.com/Tackyou/HRK-Autojoin/issues
+// @updateURL    https://raw.githubusercontent.com/Tackyou/HRK-Autojoin/master/hrkautojoin.user.js
+// @downloadURL  https://raw.githubusercontent.com/Tackyou/HRK-Autojoin/master/hrkautojoin.user.js
 // @grant        none
 // ==/UserScript==
 
